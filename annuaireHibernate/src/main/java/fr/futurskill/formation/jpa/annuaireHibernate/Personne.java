@@ -15,8 +15,8 @@ import javax.persistence.Table;
  * Personne.java
  *
  * Represente une personne d�crite par :
- * - son nom
- * - son prenom
+ * - son nom 
+ * - son prenom 
  * - sa civilite.
  * @param <T>
  */
